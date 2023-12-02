@@ -30,7 +30,7 @@ const Landing = () => {
 
 
     return (
-        <div className="relative h-screen dark:bg-[#52796f] bg-[#caf0f8] flex justify-around items-center transition-all">
+        <div className="relative h-screen dark:bg-[#52796f] bg-[#caf0f8] flex justify-around items-center transition-all px-10">
             <Card theme={theme}/>
             <ToggleButton theme={theme} handleThemeSwitch={handleThemeSwitch}/>
         </div>
