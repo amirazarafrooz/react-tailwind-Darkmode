@@ -18,6 +18,7 @@ const Card = ({theme}) => {
             neque voluptatibus consectetur, iste eos dolorem! Sunt rerum
             reprehenderit adipisci maiores soluta atque necessitatibus maxime,
             recusandae provident voluptatem culpa ipsa itaque iste!
+            haj mahdiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
           </p>
           <button className="w-full md:w-40 mt-10 rounded-2xl px-5 py-2 dark:bg-[#81b29a] bg-[#0077b6] text-xl font-bold text-white  flex justify-center items-center">contact me!</button>
         </div>
